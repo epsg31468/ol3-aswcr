@@ -1,0 +1,24 @@
+{
+  "name": "ol3-aswcr",
+  "authors": [
+    "MrPl0p"
+  ],
+  "description": "OpenLayers 3 - Advanced styles with the canvas renderer",
+  "main": "ol-aswcr.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "OpenLayers",
+    "Style"
+  ],
+  "license": "N/A",
+  "homepage": "https://github.com/epsg31468/ol3-aswcr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
